@@ -1,0 +1,1 @@
+# this is about how to use shell permissins
